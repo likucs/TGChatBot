@@ -59,8 +59,8 @@ async def help(event):
         await event.edit(
             "You Can Deploy Your Own ChatBot By Watching Video Down There. \nThank You For Contacting Me.",
             buttons=[
-                [Button.url("Source Code 📺", "https://github.com/CyberBoyAyush/TGChatBot")],
-                [Button.url("Need Help ❓", "t.me/CyberBoyAyushBot")],
+                [Button.url("Source Code 📺", "https://github.com/likucs/TGChatBot")],
+                [Button.url("Owner", "t.me/iAmLiKu1")],
             ],
         )
 
