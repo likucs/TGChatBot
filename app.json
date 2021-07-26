@@ -23,7 +23,7 @@
     },
     "CUSTOM_IMG": {
       "description": "Link Of A Image For Start.",
-      "value": "",
+      "value": "https://telegra.ph/file/8bef4348f501eddd3f6a0.jpg",
       "required": false
     },
     "DUMB_CHAT": {
@@ -36,7 +36,7 @@
     },
     "CUSTOM_START": {
       "description": "Custom Message For Start.",
-      "value": "",
+      "value": "Hey dude 🤘🏻",
       "required": false
     },
     "APP_ID": {
