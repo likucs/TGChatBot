@@ -10,5 +10,5 @@ class Config(object):
     CUSTOM_START = os.environ.get("CUSTOM_START", None)
     JMT_ENABLE = os.environ.get("JMT_ENABLE", False)
     JMTC_ID = int(os.environ.get("JMTC_ID", False))
-    JMTC_LINK = os.environ.get("JMTC_LINK", "t.me/AyushBots")
-    CUSTOM_IMG = os.environ.get("CUSTOM_IMG", "https://camo.githubusercontent.com/23baa96597c3c43fc039d4d943c272b9792dafbd6a8d50f719f1ca8687ff7bc8/68747470733a2f2f692e696d6775722e636f6d2f5057697a6e7a312e706e67")
+    JMTC_LINK = os.environ.get("JMTC_LINK", "t.me/mod_apk_premium_cs")
+    CUSTOM_IMG = os.environ.get("CUSTOM_IMG", "https://telegra.ph/file/8bef4348f501eddd3f6a0.jpg")
