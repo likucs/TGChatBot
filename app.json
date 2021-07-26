@@ -9,7 +9,7 @@
     "telegram-chatbot",
     "productivity"
   ],
-  "repository": "https://github.com/CyberBoyAyush/TGChatBot",
+  "repository": "https://github.com/likucs/TGChatBot",
   "website": "https://github.com/CyberBoyAyush/TGChatBot",
   "success_url": "https://github.com/CyberBoyAyush/TGChatBot",
   "env": {
